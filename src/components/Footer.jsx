@@ -92,7 +92,7 @@ const Footer = () => {
       </div>
       <div className="mt-20">
         <p className="text-gray-300 text-center">
-          © jotredev 2022 - All Rights Reserved
+          © Elisha David 2023 - All Rights Reserved
         </p>
       </div>
     </footer>
